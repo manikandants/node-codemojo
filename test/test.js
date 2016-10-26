@@ -11,8 +11,8 @@ var CodeMojo = require('../lib/index');
 });*/
 
 var cm = new CodeMojo({
-    client_id: 'merchant@cartisan.in',
-    client_secret: '_WLRIQZp6CGvX6vGcd6URMJHGXXhL62L2NBLCA9J',
+    client_id: 'client_id',
+    client_secret: 'client_secret',
     grant_type: 'client_credentials'
 }, function(err, codeMojo) {
     console.log(codeMojo.Loyalty);
