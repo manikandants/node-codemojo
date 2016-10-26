@@ -1,0 +1,33 @@
+{
+  "name": "codemojo",
+  "version": "1.0.0",
+  "description": "Fast forward your customer engagement",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandants/node-codemojo.git"
+  },
+  "keywords": [
+    "codemojo",
+    "loyalty",
+    "wallet",
+    "referrals",
+    "gamification"
+  ],
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikandants/node-codemojo/issues"
+  },
+  "homepage": "https://github.com/manikandants/node-codemojo#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.4"
+  }
+}
