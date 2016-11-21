@@ -1,6 +1,6 @@
 {
   "name": "codemojo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Fast forward your customer engagement",
   "main": "./lib/index.js",
   "scripts": {
