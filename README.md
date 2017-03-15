@@ -1,5 +1,7 @@
 # node-codemojo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/manikandants/node-codemojo.svg)](https://greenkeeper.io/)
+
 Fast forward your customer engagement with [Codemojo](https://codemojo.io/)
 
 ## Install
