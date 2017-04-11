@@ -1,6 +1,6 @@
 {
   "name": "codemojo",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Fast forward your customer engagement",
   "main": "./lib/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/manikandants/node-codemojo#readme",
   "dependencies": {
-    "request": "^2.79.0",
+    "request": "^2.81.0",
     "timer-stopwatch": "^0.2.0"
   },
   "devDependencies": {
